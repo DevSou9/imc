@@ -1,0 +1,13 @@
+div{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    background-color: #000;
+    color: orange;
+    text-align: center;
+
+    max-width: 500px;
+    width: 100%;
+}
